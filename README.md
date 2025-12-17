@@ -1,11 +1,22 @@
 # Backstabber
 ## Índice
-- O que é o Backstabber
-- De onde veio a ideia
+- De onde veio a ideia?
 - Detalhes do Jogo
+  - Oque é o Backstabber?
   - Objetivo
   - Personagens
   - Paisagens
 - Desenvolvimento do jogo
 
 ---
+
+## De onde veio a ideia
+Nós tivemos esta ideia depois de desenharmos os primos do **Roberto**. Mas quem é o roberto?
+O Roberto é um personagem que devia representar manteiga.
+### Este é o **Roberto**:
+
+### E estes o primos dele:
+<br>
+<img width="682" height="834" alt="Roberto_e_os_20_primos_dele" src="https://github.com/user-attachments/assets/78f07f97-0bba-4f1a-8601-972160e9cbbe" />
+
+Caso queria saber mais sobre a história de cada personagem clique [aqui]()
