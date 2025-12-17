@@ -13,7 +13,7 @@ Um RPG de Ação passado num mundo estranho, recheado de manteiga, primos suspei
   * [Objetivo](#-objetivo)
   * [Personagens](#%E2%80%8D%E2%80%8D-personagens)
   * [Paisagens](#-paisagens)
-  * Desenvolvimento do Jogo (W.I.P)
+* Desenvolvimento do Jogo (W.I.P)
 
 ---
 
