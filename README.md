@@ -1,6 +1,6 @@
 # Backstabber
 ## Índice
-- Oque o Backstabber
+- O que é o Backstabber
 - De onde veio a ideia
 - Detalhes do Jogo
   - Objetivo
