@@ -22,7 +22,9 @@ E estes o primos dele:
 <img width="300" height="300" alt="Roberto_e_os_20_primos_dele" src="https://github.com/user-attachments/assets/78f07f97-0bba-4f1a-8601-972160e9cbbe" /><br>
 
 Com isso tivemos a ideias de fazer um jogo onde tens de salvar os primos do Roberto do primo malvado o **Alberto**, que colocou um artifacto nas costas de cada primo para o controlar<br>
-Este é o Alberto:
+Este é o **Alberto**:
+<br>
+<img width="300" height="300" alt="Alberto" src="https://github.com/user-attachments/assets/b8021380-a80d-4318-8e93-c3304a6f01f1" /><br>
 
 Caso queria saber mais sobre a história de cada personagem clique [aqui](https://github.com/AfonsoES/Backstabber/tree/main/Hist%C3%B3ria%20dos%20personagens).<br>
 E se querer saber mais sobre o objetivo clique [aqui]() <!--Colocar o link para o Objetivo do jogo-->
