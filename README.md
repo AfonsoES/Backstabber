@@ -19,4 +19,4 @@ O Roberto é um personagem que devia representar manteiga.
 <br>
 <img width="682" height="834" alt="Roberto_e_os_20_primos_dele" src="https://github.com/user-attachments/assets/78f07f97-0bba-4f1a-8601-972160e9cbbe" />
 
-Caso queria saber mais sobre a história de cada personagem clique [aqui]()
+Caso queria saber mais sobre a história de cada personagem clique [aqui](https://github.com/AfonsoES/Backstabber/tree/main/Hist%C3%B3ria%20dos%20personagens)
