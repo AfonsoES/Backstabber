@@ -6,6 +6,6 @@
   - Objetivo
   - Personagens
   - Paisagens
-- Desemvolvimento do jogo
+- Desenvolvimento do jogo
 
 ---
