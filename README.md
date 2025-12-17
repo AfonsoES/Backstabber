@@ -95,6 +95,9 @@ Para saberes mais sobre cada personagem, clica [aqui](https://github.com/AfonsoE
 ### 🌄 Paisagens
 
 - Início
-(W.I.P)
+<img width="300" height="300" alt="Roberto_e_os_20_primos_dele" src="https://github.com/user-attachments/assets/d0c301d8-96c4-4bc7-a6df-d983d3fb5771" />
+
+- Batalha
+
 
 ---
