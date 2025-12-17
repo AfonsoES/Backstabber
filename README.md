@@ -11,9 +11,9 @@ Um RPG de Ação passado num mundo estranho, recheado de manteiga, primos suspei
 
   * [O que é o Backstabber?](#-o-que-é-o-backstabber)
   * [Objetivo](#-objetivo)
-  * [Personagens](#-personagens)
+  * [Personagens](#%E2%80%8D%E2%80%8D-personagens)
   * [Paisagens](#-paisagens)
-* [Desenvolvimento do Jogo](#-desenvolvimento-do-jogo)
+  * Desenvolvimento do Jogo (W.I.P)
 
 ---
 
@@ -95,5 +95,6 @@ Para saberes mais sobre cada personagem, clica [aqui](https://github.com/AfonsoE
 ### 🌄 Paisagens
 
 - Início
+(W.I.P)
 
 ---
