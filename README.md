@@ -77,6 +77,8 @@ Para saberes mais sobre cada personagem, clica [aqui](https://github.com/AfonsoE
 
 #### 🌍 Ivy
 
+<img width="300" height="500" alt="Ivy" src="https://github.com/user-attachments/assets/4f298e45-e1be-4418-9286-61a2c445a372" />
+
 
 #### 🧈 Roberto
 
